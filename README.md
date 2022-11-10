@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find me on Mastodon: <a rel="me" href="https://ecoevo.social/@alxsim">https://ecoevo.social/@alxsim</a>
+Find me on Mastodon: <a rel="nofollow me" class="Link--primary" href="https://ecoevo.social/@alxsim">https://ecoevo.social/@alxsim</a>
 
 Admin of ecoevo.social Mastodon server.
 
