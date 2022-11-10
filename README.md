@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Find me on Mastodon: <a rel="me" href="https://ecoevo.social/@alxsim">@alxsim@ecoevo.social</a>
+
+Admin of ecoevo.social Mastodon server.
+
 <!--
 **alxsimon/alxsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
